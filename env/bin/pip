@@ -1,4 +1,4 @@
-#!/Users/malandru/microblog/env/bin/python3
+#!/Users/andrewlim/microblog/env/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
