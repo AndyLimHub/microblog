@@ -4,6 +4,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.pyc
+*.cpython-313.pyc
 
 # Virtual environment
 env/
